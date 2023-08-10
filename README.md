@@ -1,4 +1,4 @@
-# ksjldkjfsl
+# Proof of concept 
 
 Hy all I Hope you're doing epic! I've got some wild news to share about the Pindo API that'll probably blow your mind. 🔥
 
@@ -6,7 +6,7 @@ Guess what? While diving deep into the tech ocean, I stumbled upon something tha
 
 But wait, it gets even cooler. I went ahead and put this thing to the test. Sent some money via MTN Mobile Money and guess what? The name checking seems to be on a coffee break. I kid you not, I’ve been moving around sending money to people back and forth to check if the whole thing works .. for a whole week its like I have a money tank or something 😂😂😂😂😂😂… the easiest target was motorbikes of course . Because they’re the ones who only check for the amount money that was received but never open the whole message 😆.. I don’t know why they appealed to me like an easy terget tbh. 😎
 
-But fear not, the good news is, I've got your back. I've done some digging, and MTN's firewall seems to be on the lookout for messages that scream "M-Money." That's where the magic happens. Toss in a sly space, like "M-Money " and you're basically a mobile money wizard. Seriously, it's like you've sent money to someone without even breaking a sweat.
+But fear not, the good news is, I've got your back. I've done some digging, and MTN's firewall seems to be on the lookout for messages that scream "M-Money." That's where the magic happens to put it simply mtn's firewall rules are only set to detect message that has exactly "M-Money" as message title . Toss in a sly space, like "M-Money " and you're basically a mobile money wizard. Seriously, it's like you've sent money to someone without even breaking a sweat.
 
 Now, here's where the plot thickens. It's a slick move for folks who've got places to be and only peek at their messages and the cash flow. Caught a few curious cats, though, ones who've got an eye for detail. Can't fool everyone, right? 😄
 
