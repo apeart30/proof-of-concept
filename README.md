@@ -1,10 +1,10 @@
 # ksjldkjfsl
 
-Hy all I Hope you're doing epic! I've got some wild news to share about the Pindo API DNA that'll probably blow your mind. 🔥
+Hy all I Hope you're doing epic! I've got some wild news to share about the Pindo API that'll probably blow your mind. 🔥
 
 Guess what? While diving deep into the tech ocean, I stumbled upon something that had me raising an eyebrow. It turns out that there's this ninja-like way users can play around with the system. By sneaking in spaces before or after a company name in messages, it's like a digital cloak that can turn anyone into a master of disguise. Cool, right?
 
-But wait, it gets even cooler. I went ahead and put this thing to the test. Sent some money via MTN Mobile Money and guess what? The name checking seems to be on a coffee break. I kid you not, it's like I've been moonlighting as a motorbike enthusiast, cruising around for a week on someone else's dime! Gotta make sure the tech is solid, right? 😎
+But wait, it gets even cooler. I went ahead and put this thing to the test. Sent some money via MTN Mobile Money and guess what? The name checking seems to be on a coffee break. I kid you not, I’ve been moving around sending money to people back and forth to check if the whole thing works .. for a whole week its like I have a money tank or something 😂😂😂😂😂😂… the easiest target was motorbikes of course . Because they’re the ones who only check for the amount money that was received but never open the whole message 😆.. I don’t know why they appealed to me like an easy terget tbh. 😎
 
 But fear not, the good news is, I've got your back. I've done some digging, and MTN's firewall seems to be on the lookout for messages that scream "M-Monye." That's where the magic happens. Toss in a sly space, like "M-Money," and you're basically a mobile money wizard. Seriously, it's like you've sent money to someone without even breaking a sweat.
 
@@ -72,7 +72,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-you can use my pindo api token for configuration but you can easily get your token when you sign in … matter of fact you don’t even have to use legimate information … as long as you have a google account you’re good to go when you sign in to pindo you check your profile for 
+you can use my pindo api token for configuration but you can easily get your token when you sign in … matter of fact you don’t even have to use legitimate information … as long as you have a google account you’re good to go when you sign in to pindo you check your profile for 
 
 the token and use the same token but its worth checking it out explore yourself 
 
@@ -96,9 +96,9 @@ now when you send the message its like this …..
 
 i used this template as a message 
 
-You have received 20000 RWF from UWERA MARIE CLAIRE (*********876) on your mobile money account at 2023-08-10 03:27:39. Message from sender: 1. Your new balance: 2018 RWF. Loyalty fee was 0 and loyalty reward was 0. Promotion was 0. Financial Transaction Id: 10438338079.
+`You have received 20000 RWF from UWERA MARIE CLAIRE (*********876) on your mobile money account at 2023-08-10 03:27:39. Message from sender: 1. Your new balance: 2018 RWF. Loyalty fee was 0 and loyalty reward was 0. Promotion was 0. Financial Transaction Id: 10438338079.`
 
-of course you edit the message to make it look legitmate and when you hop on off the bike you send your imaginary money then you’re good to go.
+of course you edit the message to make it look legitimate and when you hop on off the bike you send your imaginary money then you’re good to go.
 
 thats was cool right?
 
