@@ -11,7 +11,7 @@ But fear not, the good news is, I've got your back. I've done some digging, and 
 
 Now, here's where the plot thickens. It's a slick move for folks who've got places to be and only peek at their messages and the cash flow. Caught a few curious cats, though, ones who've got an eye for detail. Can't fool everyone, right? 😄
 
-Now, I'm not just here to tease you with tech tales. I've got something in store. I've whipped up a POC, a proof of concept, that'll show you this slick space trick in action. The repo is all set and ready to rumble on GitHub. Check it out and let me know what you think.
+Now, I'm not just here to tease you with tech tales. I've got something in store. I've whipped up a POC, a proof of concept, that'll show you this slick space trick in action Check it out and let me know what you think.
 
 ```python
 from flask import Flask, render_template, request, redirect, flash
